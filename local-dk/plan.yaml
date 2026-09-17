@@ -32,4 +32,5 @@ documentation:
   pages: []
   lastModificationAt: 1789649724633
 swagger: null
-metadata: {}
+metadata:
+  foo-plan: bar-plan
