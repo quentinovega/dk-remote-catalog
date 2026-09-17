@@ -8,9 +8,8 @@ maxPerMonth: 1000
 costPerMonth: null
 costPerRequest: null
 billingDuration: null
-trialPeriod: 30
 currency: EUR
-customName: "Dwight's Strict Plan"
+customName: dev
 customDescription: >-
   Limites strictes, zéro fudge factor. Dwight surveille chaque requête.
   Ne pas dépasser. Ne pas. Dépasser.

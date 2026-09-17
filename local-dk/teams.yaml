@@ -20,7 +20,6 @@ metadata:
 ---
 kind: team
 _id: test-pour-la-demo-2
-_humanReadableId: RH
 _tenant: default
 _deleted: false
 type: Organization
