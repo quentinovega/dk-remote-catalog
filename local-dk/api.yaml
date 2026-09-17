@@ -1,0 +1,47 @@
+kind: api
+_id: Hnu5NFKN4WOUYSJq6AnvyGw4vAkqUrg4
+_humanReadableId: schroute-farms
+_tenant: default
+team: 3Msxj2b5tIdyCDEd9yvkaWfqfZqcEiXm
+_deleted: false
+lastUpdate: 1789649697379
+createdAt: 1789649697380
+name: Schrute Farms API
+smallDescription: Betteraves, toner & fournitures — le catalogue complet de Schrute Farms
+customHeaderCmsPage: null
+descriptionCmsPage: null
+header: null
+image: null
+description: >-
+  L'API officielle de Schrute Farms. Commandez vos betteraves,
+  vos cartouches toner et vos fournitures. Dwight a tout validé.
+  Pas de négociation.
+currentVersion: "1.0.0"
+supportedVersions:
+  - "1.0.0"
+testing: null
+documentation:
+  _id: SISYtX9mekDzjsE8vtGHx5hxZA8oJAvf
+  _tenant: default
+  pages: []
+  lastModificationAt: 1789649697379
+swagger: null
+tags:
+  - betteraves
+  - toner
+  - schroute-farms
+categories: []
+visibility: Public
+possibleUsagePlans:
+  - 5TyssPJW2RLqQTdqLHfypaDawniZE0td
+defaultUsagePlan: 5TyssPJW2RLqQTdqLHfypaDawniZE0td
+authorizedTeams: []
+posts: []
+issues: []
+issuesTags: []
+stars: 0
+parent: null
+isDefault: true
+apis: null
+state: published
+metadata: {}

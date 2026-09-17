@@ -1,0 +1,35 @@
+kind: plan
+_id: 5TyssPJW2RLqQTdqLHfypaDawniZE0td
+_tenant: default
+_deleted: false
+maxPerSecond: 5
+maxPerDay: 100
+maxPerMonth: 1000
+costPerMonth: null
+costPerRequest: null
+billingDuration: null
+trialPeriod: 30
+currency: EUR
+customName: "Dwight's Strict Plan"
+customDescription: >-
+  Limites strictes, zéro fudge factor. Dwight surveille chaque requête.
+  Ne pas dépasser. Ne pas. Dépasser.
+otoroshiTarget: null
+allowMultipleKeys: false
+visibility: Public
+authorizedTeams: []
+autoRotation: false
+subscriptionProcess:
+  steps: []
+  checkSum: null
+integrationProcess: ApiKey
+aggregationApiKeysSecurity: false
+paymentSettings: null
+testing: null
+documentation:
+  _id: P5ofGO6H9qB05Ia5nsLxFXHCeb9nMpwh
+  _tenant: default
+  pages: []
+  lastModificationAt: 1789649724633
+swagger: null
+metadata: {}
