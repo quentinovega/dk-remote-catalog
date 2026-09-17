@@ -16,3 +16,23 @@ verified: true
 metadata:
   foo: bar
   bar: foo
+
+---
+kind: team
+_id: test-pour-la-demo-2
+_humanReadableId: RH
+_tenant: default
+_deleted: false
+type: Organization
+name: RH
+description: l'équipe RH
+contact: RH@dundermifflin.com
+avatar: /assets/images/daikoku.svg
+users: []
+authorizedOtoroshiEntities: null
+apiKeyVisibility: User
+apisCreationPermission: null
+verified: true
+metadata:
+  foo: RH
+  bar: RH
