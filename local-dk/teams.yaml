@@ -1,3 +1,17 @@
 kind: team
-_id: team-weather
-name: Weather
+_id: test-pour-la-demo
+_humanReadableId: juridique
+_tenant: default
+_deleted: false
+type: Organization
+name: Juridique
+description: l'équipe jurdiique
+contact: juridique@dundermifflin.com
+avatar: /assets/images/daikoku.svg
+users: []
+authorizedOtoroshiEntities: null
+apiKeyVisibility: User
+metadata: {"foo": "bar"}
+apisCreationPermission: null
+verified: true
+
