@@ -11,7 +11,8 @@ avatar: /assets/images/daikoku.svg
 users: []
 authorizedOtoroshiEntities: null
 apiKeyVisibility: User
-metadata: {"foo": "bar"}
 apisCreationPermission: null
 verified: true
-
+metadata:
+  foo: bar
+  bar: foo
